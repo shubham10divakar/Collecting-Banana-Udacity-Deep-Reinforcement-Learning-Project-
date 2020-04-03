@@ -3,7 +3,7 @@
 ![banana](images/banana-intro.gif)
 
 ## Project details
-
+Check out the link to the blog of project- https://medium.com/@shubham.divakar/collect-bananas-deep-reinforcement-learning-udacity-project-fe661ebfa90d
 This Project is created as first project on Udacity Deep Reinforcement Learning nanodegree. The goal of the agent is to gather `yellow` bananas while avoiding the `blue` ones. Here are Unity details of the environment:
 
 ```
